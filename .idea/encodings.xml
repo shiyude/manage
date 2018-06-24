@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/components/common/Home.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/pages/add.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/css/add.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/css/platform_sync.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/css/relate_card.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/css/terminal_manage.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/router/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/vuex/state.js" charset="UTF-8" />
+    <file url="file://C:/zdhd1/package.json" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+html,body,#app,.wrapper{
+    height:100%;
+    width:100%;
+    overflow:hidden
+}
+.container{
+    position: absolute;
+    left: 200px;
+    right: 0;
+    top:0;
+    bottom: 0;
+    background:rgb(245,245,245);
+}
+.content{
+    height:100%;
+    padding:0 40px 0 20px;
+    box-sizing: border-box;
+}
+.main{
+    position: absolute;
+    top:78px;
+    bottom:20px;
+    left:20px;
+    right:40px;
+    overflow:auto;
+}
+.index_title{
+    font-size:16px;
+    color:rgb(0,0,0);
+    border-bottom: 1px solid rgb(219,219,219);
+    position: absolute;
+    top:0;
+    left:20px;
+    right:40px;
+    height:63px;
+    line-height:63px;
+}
